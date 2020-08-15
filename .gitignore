@@ -1,0 +1,6 @@
+venv
+.history
+*.json
+*.html
+config.txt
+*__pycache__
